@@ -31,3 +31,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Hat tip to anyone whose code was used
 * Inspiration
+
+![Screenshot of app](https://github.com/bharatgupta99/QTasks/blob/master/images/s1.png)
+![Screenshot of app](https://github.com/bharatgupta99/QTasks/blob/master/images/s2.png)
