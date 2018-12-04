@@ -2,10 +2,6 @@
 
 We need do to a lot of things in a day. This help you add todo/tasks according to its priority and show only the one with top priority. Once its done the one with next priority will show up. Until you are not done with all of the tasks, new tasks will show up.  
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
 An android device
